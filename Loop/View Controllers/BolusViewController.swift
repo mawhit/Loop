@@ -29,7 +29,6 @@ final class BolusViewController: UITableViewController, IdentifiableClass, UITex
     var recommendedBolus: Double = 0 {
         didSet {
             recommendedBolusAmountLabel?.text = decimalFormatter.string(from: NSNumber(value: recommendedBolus))
-            bolusAmountTextField?.text = decimalFormatter.string(from: NSNumber(value: recommendedBolus))
         }
     }
 
@@ -43,11 +42,27 @@ final class BolusViewController: UITableViewController, IdentifiableClass, UITex
         }
     }
 
-    @IBOutlet weak var bolusAmountTextField: UITextField! {
- didSet {
- bolusAmountTextField?.text = decimalFormatter.string(from: NSNumber(value: recommendedBolus))
- }
- }
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        if (indexPath.row == 0) {
+            acceptRecommendedBolus();
+        }
+    }
+    
+    override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+        if (indexPath.row == 0) {
+            cell.accessibilityCustomActions = [
+                UIAccessibilityCustomAction(name: NSLocalizedString("AcceptRecommendedBolus", comment: "Action to copy the recommended Bolus value to the actual Bolus Field"), target: self, selector: #selector(BolusViewController.acceptRecommendedBolus))
+            ]
+        }
+    }
+    
+    @objc
+    func acceptRecommendedBolus() {
+        bolusAmountTextField?.text = recommendedBolusAmountLabel?.text
+    }
+    
+    
+    @IBOutlet weak var bolusAmountTextField: UITextField!
 
     // MARK: - Actions
 
