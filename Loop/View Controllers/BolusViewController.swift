@@ -22,7 +22,7 @@ final class BolusViewController: UITableViewController, IdentifiableClass, UITex
         bolusAmountTextField.accessibilityHint = String(format: NSLocalizedString("Recommended Bolus: %@ Units", comment: "Accessibility hint describing recommended bolus units"), spellOutFormatter.string(from: NSNumber(value: recommendedBolus)) ?? "0")
 
         bolusAmountTextField.becomeFirstResponder()
-
+    
         AnalyticsManager.sharedManager.didDisplayBolusScreen()
     }
 
@@ -65,7 +65,7 @@ final class BolusViewController: UITableViewController, IdentifiableClass, UITex
     @IBOutlet weak var bolusAmountTextField: UITextField!
 
     // MARK: - Actions
-
+   
     @IBAction func authenticateBolus(_ sender: Any) {
         bolusAmountTextField.resignFirstResponder()
 
