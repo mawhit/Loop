@@ -26,5 +26,5 @@
 "NSHealthUpdateUsageDescription" = "I dati sui carboidrati dei pasti inseriti nell'app e sull'orologio sono trasferiti nel database di Salute. I dati recuperati dal sensore CGM sono storati nel database di HealthKit.";
 
 /* Privacy - Siri Usage Description */
-"NSSiriUsageDescription" = "Loop utilizza Siri per permettere l'attivazione delle preimpostazioni con la tua voce";
+"NSSiriUsageDescription" = "Loop utilizza Siri per permettere l'attivazione dei preset con la tua voce";
 
