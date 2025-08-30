@@ -215,7 +215,7 @@ The title of the Algorithm Experiments section in settings */
 "Are you sure you want to delete all history entries?" = "Voulez-vous vraiment supprimer toutes les entrées de l’historique?";
 
 /* Action sheet confirmation message for logged dose deletion */
-"Are you sure you want to delete all logged dose entries?" = "Voulez-vous vraiment supprimer toutes les entrées de dose enregistrées ?";
+"Are you sure you want to delete all logged dose entries?" = "Voulez-vous vraiment supprimer toutes les entrées de dose enregistrées?";
 
 /* Action sheet confirmation message for reservoir deletion */
 "Are you sure you want to delete all reservoir values?" = "Voulez-vous vraiment supprimer toutes les valeurs de réservoir?";
@@ -227,7 +227,7 @@ The title of the Algorithm Experiments section in settings */
 "Are you sure you want to delete this CGM?" = "Voulez-vous vraiment supprimer ce CGM?";
 
 /* Confirmation message for deleting a service */
-"Are you sure you want to delete this service?" = "Voulez-vous vraiment supprimer ce service ?";
+"Are you sure you want to delete this service?" = "Voulez-vous vraiment supprimer ce service?";
 
 /* Format fragment for a specific time */
 "at %@" = "à %@";
@@ -442,7 +442,7 @@ The button label of the action used to dismiss the unsafe notification permissio
 "Diabetes Treatment" = "Traitement du diabète";
 
 /* Alert body when entered carbohydrates is greater than threshold (1: entered quantity in grams) */
-"Did you intend to enter %1$@ grams as the amount of carbohydrates for this meal?" = "Aviez-vous l'intention d'entrer %1$@ grammes comme quantité de glucides pour ce repas ?";
+"Did you intend to enter %1$@ grams as the amount of carbohydrates for this meal?" = "Aviez-vous l'intention d'entrer %1$@ grammes comme quantité de glucides pour ce repas?";
 
 /* The action hint of the workout mode toggle button when enabled */
 "Disables" = "Désactive";
@@ -573,7 +573,7 @@ Title for bolus screen warning when glucose entry is out of range */
 "High Glucose" = "Glycémie élevée";
 
 /* Title text for temporarily silencing all sounds (1: app name) */
-"How can I temporarily silence all %1$@ app sounds?" = "Comment puis-je désactiver temporairement tous les sons de l'application %1$@ ?";
+"How can I temporarily silence all %1$@ app sounds?" = "Comment puis-je désactiver temporairement tous les sons de l'application %1$@?";
 
 /* The title text for how to update */
 "How to update (LoopDocs)" = "Comment mettre à jour (LoopDocs)";
@@ -1141,7 +1141,7 @@ result when time cannot be formatted */
 "Warning! Safety notifications are turned OFF" = "Attention! Les notifications de sécurité sont DÉSACTIVÉES";
 
 /* No comment provided by engineer. */
-"What are examples of Critical and Time Sensitive alerts?" = "Quels sont des exemples d'alertes critiques et urgentes ?";
+"What are examples of Critical and Time Sensitive alerts?" = "Quels sont des exemples d'alertes critiques et urgentes?";
 
 /* Explanation of glucose safety limit */
 "When current or forecasted glucose is below the glucose safety limit, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "Lorsque la glycémie actuelle ou prévue est inférieure au seuil de suspension, Loop ne recommandera pas de bolus et recommandera toujours un débit basal temporaire de 0 unité par heure.";
@@ -1180,7 +1180,7 @@ result when time cannot be formatted */
 "Your %1$@’s time has been changed. %2$@ needs accurate time records to make predictions about your glucose and adjust your insulin accordingly.\n\nCheck in your %1$@ Settings (General / Date & Time) and verify that 'Set Automatically' is turned ON. Failure to resolve could lead to serious under-delivery or over-delivery of insulin." = "L'heure de votre %1$@ a été modifiée. %2$@ a besoin d'enregistrements de temps précis pour établir des prédictions sur votre glycémie et ajuster votre insuline en conséquence. \n\nEnregistrez vos paramètres %1$@ (Général / Date et heure) et vérifiez que \"Régler automatiquement\" est activé. L'absence de résolution pourrait entraîner une sous-administration ou une sur-administration grave d'insuline.";
 
 /* Format string for simple bolus screen warning when glucose is below glucose warning limit. */
-"Your glucose is below %1$@. Are you sure you want to bolus?" = "Votre glycémie est inférieure à %1$@. Êtes-vous sûr de vouloir administrer un bolus ?";
+"Your glucose is below %1$@. Are you sure you want to bolus?" = "Votre glycémie est inférieure à %1$@. Êtes-vous sûr de vouloir administrer un bolus?";
 
 /* Caption for bolus screen notice when no bolus is recommended due to prediction dropping below glucose safety limit */
 "Your glucose is below or predicted to go below your glucose safety limit, %@." = "Votre glycémie est en-dessous ou prévue pour aller en dessous de votre limite de sécurité de glycémie, %@.";
