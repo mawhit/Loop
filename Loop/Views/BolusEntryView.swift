@@ -23,9 +23,7 @@ struct BolusEntryView: View {
     @ObservedObject var viewModel: BolusEntryViewModel
 
     @State private var enteredBolusString = ""
-
     @State private var isInteractingWithChart = false
-    @State private var pickerShouldExpand = false
     @State private var editedBolusAmount = false
 
     @FocusState private var bolusFieldFocused: Bool
@@ -251,14 +249,12 @@ struct BolusEntryView: View {
                     .foregroundColor(.loopAccent)
                     .focused($bolusFieldFocused)
                     .onTapGesture { didBeginEditing() }
-                    // Optional: keep to 5 chars like before
                     .onChange(of: enteredBolusString) { newValue in
                         if newValue.count > 5 {
                             enteredBolusString = String(newValue.prefix(5))
                             viewModel.updateEnteredBolus(enteredBolusString)
                         }
                     }
-                    // Keyboard toolbar "Done"
                     .toolbar {
                         ToolbarItemGroup(placement: .keyboard) {
                             Spacer()
