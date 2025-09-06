@@ -123,6 +123,12 @@
             "state" : "translated",
             "value" : "Loop"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loop"
+          }
         }
       }
     },

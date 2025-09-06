@@ -124,6 +124,12 @@
             "state" : "translated",
             "value" : "Loop"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loop"
+          }
         }
       }
     },
@@ -225,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "$(PRODUCT_NAME)"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loop"
           }
         },
         "sv" : {

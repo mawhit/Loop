@@ -1570,6 +1570,12 @@
             "state" : "translated",
             "value" : "3.5 U/hour @ 12:12 PM"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3.5u/小时 @ 12:12 PM"
+          }
         }
       }
     },
@@ -3266,6 +3272,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Khuyến nghị liều Basal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐基础率"
           }
         }
       }
