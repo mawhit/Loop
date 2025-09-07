@@ -1,9 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "" : {
-
-    },
     " (pending: %@)" : {
       "comment" : "The string format appended to active insulin that describes pending insulin. (1: pending insulin)",
       "extractionState" : "manual",
@@ -458,344 +455,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Egzersiz Ön Ayarı"
-          }
-        }
-      }
-    },
-    "–" : {
-      "comment" : "String denoting lack of a recommended bolus amount in the simple bolus calculator",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "—"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "-"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "—"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "—"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "–"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "—"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "—"
-          }
-        }
-      }
-    },
-    "– –" : {
-      "localizations" : {
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "--"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        }
-      }
-    },
-    "– – –" : {
-      "comment" : "No glucose value representation (3 dashes for mg/dL)",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "---"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "---"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "---"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "---"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– –"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "---"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "– – –"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "---"
           }
         }
       }
@@ -4347,7 +4006,7 @@
       }
     },
     "Absorption Time" : {
-
+      "comment" : "Label for food absorption entry on add favorite food screen"
     },
     "AcceptRecommendedBolus" : {
       "comment" : "Action to copy the recommended Bolus value to the actual Bolus Field",
@@ -5115,6 +4774,7 @@
       }
     },
     "Add a new favorite food" : {
+      "comment" : "Button label to open new favorite food view",
       "localizations" : {
         "da" : {
           "stringUnit" : {
@@ -6257,6 +5917,7 @@
       }
     },
     "All Favorites" : {
+      "comment" : "section header for list of existing FavoriteFoods",
       "localizations" : {
         "da" : {
           "stringUnit" : {
@@ -7201,6 +6862,9 @@
         }
       }
     },
+    "Apple" : {
+      "comment" : "Default name on add favorite food screen"
+    },
     "Are you sure you want to delete all history entries?" : {
       "comment" : "Action sheet confirmation message for pump history deletion",
       "localizations" : {
@@ -7505,6 +7169,7 @@
       }
     },
     "Are you sure you want to delete all your %@ Data?\n(This action is not reversible)" : {
+      "comment" : "Confirmation before you delete all your Simulated Test Devices data",
       "localizations" : {
         "da" : {
           "stringUnit" : {
@@ -9566,7 +9231,7 @@
       }
     },
     "Cancel" : {
-      "comment" : "Cancel button for reset loop alert\nCancel export button title\nThe title of the cancel action in an action sheet",
+      "comment" : "Button label for cancel\nCancel button for reset loop alert\nCancel export button title\nThe title of the cancel action in an action sheet",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10040,6 +9705,9 @@
           }
         }
       }
+    },
+    "Carb Quantity" : {
+      "comment" : "Label for carb quantity row on add favorite food screen"
     },
     "Carb Ratio Schedule" : {
       "comment" : "Details for configuration error when carb ratio schedule is missing",
@@ -11557,6 +11225,7 @@
       }
     },
     "Choose Favorite:" : {
+      "comment" : "The label for the row where you choose saved Favorite Food",
       "localizations" : {
         "da" : {
           "stringUnit" : {
@@ -12717,7 +12386,7 @@
       }
     },
     "Continue" : {
-      "comment" : "Default alert dismissal",
+      "comment" : "Button label for continue\nDefault alert dismissal",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -17793,9 +17462,10 @@
       }
     },
     "Favorite Foods" : {
-
+      "comment" : "Title for Favorite Foods view"
     },
     "FAVORITE FOODS" : {
+      "comment" : "The section title for Carb entry screen where Favorite Foods can be selected",
       "localizations" : {
         "da" : {
           "stringUnit" : {
@@ -18132,6 +17802,9 @@
           }
         }
       }
+    },
+    "Food Type" : {
+      "comment" : "Label for food type entry on add favorite food screen"
     },
     "For %1$@" : {
       "comment" : "The format string used to describe a finite workout targets duration",
@@ -25015,6 +24688,9 @@
         }
       }
     },
+    "Name" : {
+      "comment" : "Label for name row on add favorite food screen"
+    },
     "Needs Attention" : {
       "comment" : "Sensor state description for the non-valid state",
       "extractionState" : "manual",
@@ -25201,7 +24877,7 @@
       }
     },
     "New Favorite Food" : {
-
+      "comment" : "Title of new favorite food screen"
     },
     "Nightscout" : {
       "comment" : "The title of the Nightscout service",
@@ -26093,6 +25769,9 @@
           }
         }
       }
+    },
+    "None" : {
+      "comment" : "Indicates no favorite food is selected"
     },
     "Notification Delivery" : {
       "comment" : "Notification Delivery Status text",
@@ -30939,6 +30618,7 @@
       }
     },
     "Save as favorite food" : {
+      "comment" : "Button label for saving current carb entry as a new Favorite Food",
       "localizations" : {
         "da" : {
           "stringUnit" : {
