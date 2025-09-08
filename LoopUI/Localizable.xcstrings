@@ -2167,6 +2167,12 @@
             "state" : "translated",
             "value" : "Loop lỗi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loop失败"
+          }
         }
       }
     },

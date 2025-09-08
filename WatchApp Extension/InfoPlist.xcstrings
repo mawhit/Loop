@@ -185,6 +185,12 @@
       "comment" : "Privacy - Health Share Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتم استخدام بيانات الوجبات من قواعد بيانات تطبيق صحتي لتحديد تأثيرات سكر الدم. يتم استخدام بيانات سكر الدم منقواعد بيانات تطبيق صحتي للرسم البياني والتحليل. تُستخدم بيانات النوم من قواعد بيانات تطبيق صحتي لتحسين توصيل تحديثات تعقيدات ساعة أبل أثناء فترة استيقاظك."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -221,10 +227,22 @@
             "value" : "Les données sur les repas provenant de la base de données Santé sont utilisées pour déterminer les effets du glucose. Les données relatives au glucose provenant de la base de données Santé sont utilisées pour la création de graphiques et le calcul de l'élan. Les données relatives au sommeil provenant de la base de données Santé sont utilisées pour optimiser l'envoi des mises à jour des complications de l'Apple Watch pendant la période où vous êtes éveillé(e)."
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "נתוני ארוחות ממאגר Health משמשים לקביעת השפעות הגלוקוז. נתוני הגלוקוז ממסד Health הבריאות משמשים לגרפים ולחישוב מגמה. נתוני שינה ממסד Health משפרים את הנראות ב-Apple Watch."
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "I dati sui pasti del database Salute vengono utilizzati per determinare gli effetti del glucosio. I dati sul glucosio del database Salute vengono utilizzati per la rappresentazione grafica e il calcolo del momento. I dati sul sonno del database Salute vengono utilizzati per ottimizzare la consegna degli aggiornamenti delle complicazioni di Apple Watch durante il periodo di veglia."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリに入力された炭水化物の食事データは、健康データベースに保存されます。 グルコースデータはHealthKitに安全に保存されます"
           }
         },
         "nb" : {
@@ -243,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dane posiłków z bazy danych aplikacji Zdrowie służą do określania wpływu glukozy. Dane dotyczące glukozy z bazy danych aplikacji Zdrowie są wykorzystywane do tworzenia wykresów i wyznaczania trendu. Dane dotyczące snu z bazy danych aplikacji Zdrowie służą do optymalizacji dostarczania aktualizacji komplikacji Apple Watch w czasie, gdy nie śpisz."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os dados de refeições do banco de dados de saúde são utilizados para definir os efeitos da glicose para a representação gráfica e cálculo da aceleração."
           }
         },
         "ro" : {
@@ -273,6 +297,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sağlık veri tabanından alınan yemek verileri, KŞ etkilerini belirlemek için kullanılır. Sağlık veri tabanından alınan KŞ verileri, grafik ve momentum hesaplaması için kullanılır. Sağlık veritabanındaki uyku verileri, uyanık olduğunuz süre boyunca Apple Watch komplikasyon güncellemelerinin teslimini optimize etmek için kullanılır."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông số bữa ăn từ app Health được sử dụng để xác định tác động của glucose. Thông số glucose từ app Health được sử dụng cho các tính toán vẽ đồ thị và chuyển động của đường huyết."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数据库中的膳食数据用于确定葡萄糖影响。健康数据库中的葡萄糖数据用于绘图和动量计算。"
           }
         }
       }
@@ -399,6 +435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dữ liệu Carbohydrate của bữa ăn được nhập trên phần mềm và trên đồng hồ thông minh sẽ được lưu trữ tại app Health. Các thông số glucose được lấy từ thiết bị theo dõi đường huyết liên tục/CGM sẽ được lưu trữ an toàn trong HealthKit."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在应用程序和手表中输入的碳水化合物膳食数据存储在健康数据库中。从CGM检索的葡萄糖数据安全地存储在HealthKit中。"
           }
         }
       }
