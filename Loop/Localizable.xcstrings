@@ -219,6 +219,12 @@
     " remaining" : {
       "comment" : "remaining time in setting's profile expiration section",
       "localizations" : {
+        "ce" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "remaining"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -253,6 +259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "נותר"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "remaining"
           }
         },
         "it" : {
@@ -295,6 +307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "kalan"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "remaining"
           }
         }
       }
