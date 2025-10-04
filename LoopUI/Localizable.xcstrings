@@ -69,6 +69,12 @@
             "state" : "translated",
             "value" : "\n%1$@\n\n%2$@ Kapalı Döngü AÇIK konumdayken çalışıyor."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\n %1$@\n\n%2$@当前处于闭环模式。"
+          }
         }
       }
     },
@@ -281,6 +287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "\n%1$@ KAPALI konumda ve Kapalı Döngü ile çalışıyor. Pompanız ve CGM çalışmaya devam edecek, ancak uygulama dozajı otomatik olarak ayarlamayacaktır. \n\n%2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\n %1$@当前处于非闭环模式。胰岛素泵和连续血糖监测仪仍将正常运行，但应用程序不会自动调整胰岛素剂量。\n \n %2$@"
           }
         }
       }
@@ -733,6 +745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ önce"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ 之前"
           }
         }
       }
@@ -1359,6 +1377,12 @@
             "state" : "translated",
             "value" : "< 1 dakika önce"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<1 分钟之前"
+          }
         }
       }
     },
@@ -1476,7 +1500,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启动闭环"
+            "value" : "闭环模式"
           }
         }
       }
@@ -1561,6 +1585,12 @@
             "state" : "translated",
             "value" : "Kapalı Döngü KAPALI"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "闭环模式已关闭"
+          }
         }
       }
     },
@@ -1643,6 +1673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kapalı Döngü AÇIK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "闭环模式已开启"
           }
         }
       }
@@ -1983,6 +2019,12 @@
             "state" : "translated",
             "value" : "YÜKSEK"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高"
+          }
         }
       }
     },
@@ -2053,6 +2095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Son tamamlanan döngü %1$@ ."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上次完成闭环是 %1$@"
           }
         }
       }
@@ -2463,6 +2511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DÜŞÜK"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "低"
           }
         }
       }
@@ -3136,6 +3190,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uygulamanın insülininizi otomatikleştirmesini istiyorsanız, Kapalı Döngüyü AÇIK duruma getirmek için Ayarlar'a dokunun."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您希望应用程序自动控制您的胰岛素，请点击“设置”，打开“闭环模式”开关。"
           }
         }
       }

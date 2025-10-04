@@ -1121,6 +1121,12 @@
             "state" : "translated",
             "value" : "Bolus Önerisi Güncellendi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大剂量推荐值已更新"
+          }
         }
       }
     },
@@ -2393,6 +2399,12 @@
             "state" : "translated",
             "value" : "OK"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好的"
+          }
         }
       }
     },
@@ -2733,6 +2745,12 @@
             "state" : "translated",
             "value" : "Lütfen bolus miktarını tekrar onaylayın."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请重新确认大剂量。"
+          }
         }
       }
     },
@@ -2845,6 +2863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trước bữa ăn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "餐前"
           }
         }
       }
@@ -3674,6 +3698,12 @@
             "state" : "translated",
             "value" : "Kaydet & Bolus"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存并注射追加胰岛素"
+          }
         }
       }
     },
@@ -3875,6 +3905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Digital Crown'u bolusa\nçevirin"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "旋转数字表冠\n以注射追加胰岛素"
           }
         }
       }
