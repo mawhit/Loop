@@ -9076,7 +9076,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "大剂量汇总"
+            "value" : "追加胰岛素汇总"
           }
         }
       }
@@ -16352,7 +16352,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入大剂量"
+            "value" : "输入追加胰岛素剂量"
           }
         }
       }
