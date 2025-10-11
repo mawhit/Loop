@@ -425,6 +425,12 @@
             "state" : "translated",
             "value" : "---"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "– – –"
+          }
         }
       }
     },
@@ -1918,12 +1924,24 @@
             "state" : "translated",
             "value" : "g"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "克"
+          }
         }
       }
     },
     "HIGH" : {
       "comment" : "String displayed instead of a glucose value above the CGM range",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرتفع"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1990,6 +2008,12 @@
             "value" : "WYSOKI"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HIGH"
+          }
+        },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2018,6 +2042,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "YÜKSEK"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CAO"
           }
         },
         "zh-Hans" : {
@@ -2417,6 +2447,12 @@
     "LOW" : {
       "comment" : "String displayed instead of a glucose value below the CGM range",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منخفض"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2483,6 +2519,12 @@
             "value" : "NISKI"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOW"
+          }
+        },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2511,6 +2553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DÜŞÜK"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "THẤP"
           }
         },
         "zh-Hans" : {
@@ -2637,6 +2685,12 @@
             "state" : "translated",
             "value" : "mg/dL"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mg/dL"
+          }
         }
       }
     },
@@ -2752,6 +2806,12 @@
           }
         },
         "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mmol/L"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mmol/L"

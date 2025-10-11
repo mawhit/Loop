@@ -998,6 +998,12 @@
             "value" : "Выполнение"
           }
         },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Running"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
